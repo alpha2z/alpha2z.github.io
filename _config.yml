@@ -1,5 +1,5 @@
 # Site settings
-title: Project Pages
+title: Alpha ZHOU 
 description: "An Integrated Scientific Blogging Template"
 url: "https://projectpages.github.io"
 
@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  alpha2z
+project_repository: alpha2z.github.io
+disqus_shortname: alpha
 g-analytics: UA-75881392-1
 altmetric: true
 
@@ -88,7 +88,7 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "author"
+      - name: "alpha2z"
         field:
           element: "text"
           label: "Author"
